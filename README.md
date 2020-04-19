@@ -1,5 +1,5 @@
 
-<img src="/img/MahawikiWebinar.png" alt="Markdown Monster icon" style="padding:50px"/>
+<img src="MahawikiWebinar.png" alt="Markdown Monster icon" style="padding:50px"/>
 <H1  align="center" ></>Mahawiki Webinar Resources </H1>
 
 | Roles:        | Discription       | 
