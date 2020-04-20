@@ -1,1 +1,11 @@
 Mahawiki speakers list
+
+-----------------------------------------------------------------------------------------
+| Speaker                  | Topic                                  | Date and Time     |
+-----------------------------------------------------------------------------------------
+| Ankit Tiwari             | Linux Basic Commands                   | 13 April 2100 IST |
+| Antariksh Pratham        | Getting Started with Python            | 14 April 2100 IST |
+| Abdultaiyeb Chechatwala  | Signalling modification to spoof calls | 15 April 1200 IST |
+| Kruti Patel              | Introduction to Web Scrapping          | 19 April 1000 IST |
+| Shivani Mehta            | C++ STL Library                        | 19 April 2130 IST |
+| Kathan Patel             | Introduction to Bug Bounties           | 20 April 1000 IST |
