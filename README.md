@@ -5,7 +5,7 @@
 ## Speakers and Resource List 
 |Name                 |  Role       | Github User handle |  PPT/Doc/Code Link|
 | ------------------- |-------------| ---------------------|-------------|
-| Test User    | Speaker|   @userid   |  PPt/Doc/ |
+| Kruti Patel  | Speaker|   [@nickruti](https://github.com/Nickruti)   |  PPt/Doc/ |
 
 
 
