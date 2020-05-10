@@ -3,9 +3,9 @@
 <H1  align="center" ></>Mahawiki Webinar Resources </H1>
 
 ## Speakers and Resource List 
-|Name                 |  Role       | Github User handle |  PPT/Doc/Code Link|
-| ------------------- |-------------| ---------------------|-------------|
-| Kruti Patel  | Speaker|   [@nickruti](https://github.com/Nickruti)   |  PPt/Doc/ |
+|Name             |Topic    |  Role       | Github User handle |  PPT/Doc/Code Link|
+| -------------|------ |-------------| ---------------------|-------------|
+| Kruti Patel | Web Scraping Using Python and selenium | Speaker|   [@nickruti](https://github.com/Nickruti)   | [Download-PPT](./ppt/Selenium_WEB_Scraping.pdf) |
 
 
 
