@@ -12,6 +12,7 @@
 | Kathan Patel |Introduction to Bug Bounties  | Speaker|   --------   | [Download-PPT](./ppt) |
 | Abdultaiyeb Chechatwala |Ethical hacking hands on sessions   | Speaker|   --------   |It was Live |
 |Shivani Mehata |C++ STL Library  | Speaker|   --------   |It was Live |
+|Ankit Mishra |Thought process behind creating any kind of video along with tools. | Speaker|   --------   |It was Live |
 
 
  
