@@ -6,8 +6,8 @@
 |Name             |Topic    |  Role       | Github User handle |  PPT/Doc/Code Link|
 | -------------|------ |-------------| ---------------------|-------------|
 | Kruti Patel | Web Scraping Using Python and selenium | Speaker|   [@nickruti](https://github.com/Nickruti)   | [Download-PPT](./ppt/Selenium_WEB_Scraping.pdf) |
+| Kruti Patel |Introduction to web Scraping using python | Speaker|   [@nickruti](https://github.com/Nickruti)   | [Download-PPT](./ppt/Web_Scraping_using_python.pdf) |
 
-| Kruti Patel |Introduction to web Scraping using python | Speaker|   [@nickruti](https://github.com/Nickruti)   | [Download-PPT](./ppt/WeB Scraping using Python.pdf) |
 
 
 
