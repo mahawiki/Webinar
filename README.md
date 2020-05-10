@@ -11,8 +11,7 @@
 | Kruti Patel |Introduction to web Scraping using python | Speaker|   [@nickruti](https://github.com/Nickruti)   | [Download-PPT](./ppt/Web_Scraping_using_python.pdf) |
 | Kathan Patel |Introduction to Bug Bounties  | Speaker|   --------   | [Download-PPT](./ppt) |
 | Abdultaiyeb Chechatwala |Ethical hacking hands on sessions   | Speaker|   --------   |It was Live |
-
-
+|Shivani Mehata |C++ STL Library  | Speaker|   --------   |It was Live |
 
 
  
